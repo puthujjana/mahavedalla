@@ -2,7 +2,7 @@
 Question: Whether the Buddha ever disparaged someone for asking a question?
 Category: 
 Tags: 
-Sutta References: MN 109; AN 6.44
+Sutta References: MN 109; MN 136; AN 6.44
 Date Entered: 09-06-26
 Last Revised: 09-06-26
 Review Status: Not started
@@ -80,6 +80,6 @@ ummaṅganti pañhāummaṅgaṃ. ummujjamānoti sīsaṃ nīharamāno. ayoniso 
 
 “Rising”: stretching out the head. “He will interject inappropriately”: he will stretch out the head improperly. And this, however, the Blessed One knew not from the divine eye, nor knowledge encompassing others’ minds, nor the knowledge of omniscience, but he knew it just by the inclination [of Udāyī], as the inclination of one wishing to speak is quite easily known. One wishing to speak stretches the neck forth, moves the jaw, shakes the mouth, and can’t sit still. The Blessed One, seeing that behavior of his and reflecting, knew “This Udāyī can’t sit still. He will say only what is false”.
 
-Translation aside, it seems the commentary at least reads Udāyī’s utterance as a question.
+Translation aside, it seems the commentary at least reads Udāyī’s utterance as a question ("pañhāummaṅgaṃ").
 
 -->
